@@ -1,6 +1,7 @@
 # Versitron SF708532 | Industrial Ethernet Switch for System Integration  
 
 The Versitron SF708532 10-Port Unmanaged Industrial Ethernet Switch is engineered for system integrators deploying reliable and rugged networking across surveillance, smart city, transportation, telecom, and industrial environments. With 8 Fast Ethernet RJ45 ports and 2 multimode ST fiber ports, it enables seamless copper-to-fiber integration for distributed and mission-critical networks. 
+
 <a href="https://www.versitron.com/products/10-port-unmanaged-industrial-switch-8-10-100-ethernet-2-100fx-mm-st">Buy industrial switch for surveillance, smart city, and industrial system integrators</a>  
 
 ---
